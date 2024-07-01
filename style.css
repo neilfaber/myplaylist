@@ -41,8 +41,8 @@ body{
 }
 
 .container{
-    height: 500px;
-    width: 400px;
+    height: 480px;
+    width: 350px;
     border-radius: 20px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
     transition: all 0.5s ease;
@@ -53,8 +53,8 @@ body{
 }
 
 .player-img{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     position: relative;
     top: -50px;
     left: 50px;
@@ -124,7 +124,7 @@ h3{
 .player-controls{
     position: relative;
     top: -15px;
-    left: 120px;
+    left: 100px;
     width: 200px;
 }
 
