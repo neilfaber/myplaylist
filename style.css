@@ -42,7 +42,7 @@ body{
 
 .container{
     height: 490px;
-    width: 350px;
+    width: 330px;
     border-radius: 20px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
     transition: all 0.5s ease;
@@ -53,11 +53,11 @@ body{
 }
 
 .player-img{
-    width: 250px;
+    width: 240px;
     height: 250px;
     position: relative;
     top: -50px;
-    left: 50px;
+    left: 45px;
 }
 
 .player-img img{
@@ -81,7 +81,7 @@ body{
 }
 
 h2{
-    font-size: 22px;
+    font-size: 19px;
     text-align: center;
     font-weight: 700;
     margin: 10px 0 0;
@@ -89,7 +89,7 @@ h2{
 }
 
 h3{
-    font-weight: 10px;
+    font-weight: 6px;
     text-align: center;
     font-weight: 500;
     margin: 10px 0 0;
