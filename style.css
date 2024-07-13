@@ -20,7 +20,7 @@ body{
     position: fixed;
     width: 200%;
     height: 200%;
-    top: -50%;
+    top: -20%;
     left: -50%;
     z-index: -1;
 }
