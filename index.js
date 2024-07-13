@@ -22,7 +22,7 @@ const songs = [
     {
         path:'assets/1.mp3',
         displayName: 'Under The Influence',
-        cover: 'assets/1.jpg',
+        cover: 'assets/1o.gif',
         artist:'Chris Brown',
     },
     {
