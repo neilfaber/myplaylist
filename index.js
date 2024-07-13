@@ -262,7 +262,7 @@ const songs = [
     {
         path:'assets/29.mp3',
         displayName: 'Calling',
-        cover: 'assets/1.png',
+        cover: 'assets/1.gif',
         artist:'Metro Boomin',
     },
     {
