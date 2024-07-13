@@ -26,6 +26,12 @@ const songs = [
         artist:'Chris Brown',
     },
     {
+        path:'assets/23.mp3',
+        displayName: 'The Hills',
+        cover: 'assets/23.png',
+        artist:'The Weekend',
+    },
+    {
         path:'assets/37.mp3',
         displayName: 'slow down my thoughts',
         cover: 'assets/37.png',
@@ -174,12 +180,6 @@ const songs = [
         displayName: 'Harley\'s in Hawai',
         cover: 'assets/22.png',
         artist:'Katy Perry',
-    },
-    {
-        path:'assets/23.mp3',
-        displayName: 'The Hills',
-        cover: 'assets/23.png',
-        artist:'The Weekend',
     },
     {
         path:'assets/41.mp3',
