@@ -40,7 +40,7 @@ const songs = [
     {
         path:'assets/31.mp3',
         displayName: 'Annihilate',
-        cover: 'assets/31.png',
+        cover: 'assets/1.gif',
         artist:'Metro Boomin',
     },
     {
@@ -262,7 +262,7 @@ const songs = [
     {
         path:'assets/29.mp3',
         displayName: 'Calling',
-        cover: 'assets/29.png',
+        cover: 'assets/1.png',
         artist:'Metro Boomin',
     },
     {
