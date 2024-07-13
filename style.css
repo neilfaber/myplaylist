@@ -36,7 +36,7 @@ body{
     min-width: 50%;
     min-height: 50%;
     filter: blur(15px);
-    -webkit-filter: blur(50px);
+    -webkit-filter: blur(20px);
     transform: scale(1.1);
 }
 
